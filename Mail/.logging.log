@@ -1,0 +1,958 @@
+2017-10-29 22:20:09 INFO  SendMailImpl:105 - khushboo.nalband@gmail.com
+2017-10-29 22:20:09 INFO  SendMailImpl:118 - Hello !! How are you? This mail is sent through java mail api ignore it
+2017-10-29 22:20:09 INFO  SendMailImpl:105 - mrunal.gudekar@gmail.com
+2017-10-29 22:20:09 INFO  SendMailImpl:105 - priyagoldi28@gmail.com
+2017-10-29 22:20:09 INFO  SendMailImpl:105 - supriyasts115@gmail.com
+2017-10-29 22:20:09 INFO  SendMailImpl:105 - khushboo.nalband@gmail.com
+2017-10-29 22:20:09 INFO  SendMailImpl:105 - khushboo.nalband@gmail.com
+2017-10-29 22:22:57 INFO  SendMailImpl:105 - khushboo.nalband@gmail.com
+2017-10-29 22:22:57 INFO  SendMailImpl:118 - Hello !! How are you? This mail is sent through java mail api ignore it
+2017-10-29 22:23:51 INFO  SendMailImpl:105 - khushboo.nalband@gmail.com
+2017-10-29 22:23:51 INFO  SendMailImpl:118 - Hello !! How are you? This mail is sent through java mail api ignore it
+2017-10-29 22:24:22 INFO  SendMailImpl:105 - khushboo.nalband@gmail.com
+2017-10-29 22:24:22 INFO  SendMailImpl:118 - Hello !! How are you? This mail is sent through java mail api ignore it
+2017-10-29 22:24:22 INFO  SendMailImpl:105 - mrunal.gudekar@gmail.com
+2017-10-29 22:24:22 INFO  SendMailImpl:105 - priyagoldi28@gmail.com
+2017-10-29 22:24:22 INFO  SendMailImpl:105 - supriyasts115@gmail.com
+2017-10-29 22:24:22 INFO  SendMailImpl:105 - khushboo.nalband@gmail.com
+2017-10-29 22:24:22 INFO  SendMailImpl:105 - khushboo.nalband@gmail.com
+2017-10-29 22:28:22 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:28:22 INFO  SendMailImpl:106 - mrunal.gudekar@gmail.com
+2017-10-29 22:28:22 INFO  SendMailImpl:106 - priyagoldi28@gmail.com
+2017-10-29 22:28:22 INFO  SendMailImpl:122 - Hello !! How are you? This mail is sent through java mail api ignore it
+2017-10-29 22:28:22 INFO  SendMailImpl:106 - supriyasts115@gmail.com
+2017-10-29 22:30:44 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:30:44 INFO  SendMailImpl:120 - Hello !! How are you? This mail is sent through java mail api ignore it
+2017-10-29 22:30:44 INFO  SendMailImpl:106 - mrunal.gudekar@gmail.com
+2017-10-29 22:30:44 INFO  SendMailImpl:106 - priyagoldi28@gmail.com
+2017-10-29 22:30:44 INFO  SendMailImpl:106 - supriyasts115@gmail.com
+2017-10-29 22:30:44 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:30:44 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:33:39 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:33:39 INFO  SendMailImpl:120 - Hello !! How are you? This mail is sent through java mail api ignore it
+2017-10-29 22:33:39 INFO  SendMailImpl:106 - mrunal.gudekar@gmail.com
+2017-10-29 22:33:39 INFO  SendMailImpl:106 - priyagoldi28@gmail.com
+2017-10-29 22:33:39 INFO  SendMailImpl:106 - supriyasts115@gmail.com
+2017-10-29 22:33:39 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:33:39 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:34:35 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:34:35 INFO  SendMailImpl:120 - Hello !! How are you? This mail is sent through java mail api ignore it
+2017-10-29 22:34:35 INFO  SendMailImpl:106 - mrunal.gudekar@gmail.com
+2017-10-29 22:34:35 INFO  SendMailImpl:106 - priyagoldi28@gmail.com
+2017-10-29 22:34:35 INFO  SendMailImpl:106 - supriyasts115@gmail.com
+2017-10-29 22:34:35 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:34:35 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:36:15 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:36:15 INFO  SendMailImpl:122 - Hello !! How are you? This mail is sent through java mail api ignore it
+2017-10-29 22:36:15 INFO  SendMailImpl:106 - mrunal.gudekar@gmail.com
+2017-10-29 22:36:15 INFO  SendMailImpl:122 - Hello !! How are you? This mail is sent through java mail api ignore it
+2017-10-29 22:36:15 INFO  SendMailImpl:106 - priyagoldi28@gmail.com
+2017-10-29 22:36:15 INFO  SendMailImpl:122 - Hello !! How are you? This mail is sent through java mail api ignore it
+2017-10-29 22:36:15 INFO  SendMailImpl:106 - supriyasts115@gmail.com
+2017-10-29 22:36:15 INFO  SendMailImpl:122 - Hello !! How are you? This mail is sent through java mail api ignore it
+2017-10-29 22:36:15 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:36:15 INFO  SendMailImpl:122 - Hello !! How are you? This mail is sent through java mail api ignore it
+2017-10-29 22:36:15 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:36:15 INFO  SendMailImpl:122 - Hello !! How are you? This mail is sent through java mail api ignore it
+2017-10-29 22:41:07 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:41:07 INFO  SendMailImpl:106 - mrunal.gudekar@gmail.com
+2017-10-29 22:41:07 INFO  SendMailImpl:106 - priyagoldi28@gmail.com
+2017-10-29 22:41:07 INFO  SendMailImpl:106 - supriyasts115@gmail.com
+2017-10-29 22:41:07 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:41:07 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:44:20 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:44:20 INFO  SendMailImpl:106 - mrunal.gudekar@gmail.com
+2017-10-29 22:44:20 INFO  SendMailImpl:106 - priyagoldi28@gmail.com
+2017-10-29 22:44:20 INFO  SendMailImpl:106 - supriyasts115@gmail.com
+2017-10-29 22:44:20 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:44:20 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:46:39 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:46:39 INFO  SendMailImpl:118 - Testing Mail
+2017-10-29 22:46:39 INFO  SendMailImpl:106 - mrunal.gudekar@gmail.com
+2017-10-29 22:46:39 INFO  SendMailImpl:118 - Testing Mail
+2017-10-29 22:46:39 INFO  SendMailImpl:106 - priyagoldi28@gmail.com
+2017-10-29 22:46:39 INFO  SendMailImpl:118 - Testing Mail
+2017-10-29 22:46:39 INFO  SendMailImpl:106 - supriyasts115@gmail.com
+2017-10-29 22:46:39 INFO  SendMailImpl:118 - Testing Mail
+2017-10-29 22:46:39 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:46:39 INFO  SendMailImpl:118 - Testing Mail
+2017-10-29 22:46:39 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:46:39 INFO  SendMailImpl:118 - Testing Mail
+2017-10-29 22:47:26 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:47:26 INFO  SendMailImpl:118 - Testing Mail
+2017-10-29 22:47:26 INFO  SendMailImpl:106 - mrunal.gudekar@gmail.com
+2017-10-29 22:47:26 INFO  SendMailImpl:118 - Testing Mail
+2017-10-29 22:47:26 INFO  SendMailImpl:106 - priyagoldi28@gmail.com
+2017-10-29 22:47:26 INFO  SendMailImpl:118 - Testing Mail
+2017-10-29 22:47:26 INFO  SendMailImpl:106 - supriyasts115@gmail.com
+2017-10-29 22:47:26 INFO  SendMailImpl:118 - Testing Mail
+2017-10-29 22:47:26 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:47:26 INFO  SendMailImpl:118 - Testing Mail
+2017-10-29 22:47:26 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:47:26 INFO  SendMailImpl:118 - Testing Mail
+2017-10-29 22:49:03 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:49:03 INFO  SendMailImpl:116 - Testing Mail
+2017-10-29 22:49:03 INFO  SendMailImpl:106 - mrunal.gudekar@gmail.com
+2017-10-29 22:49:03 INFO  SendMailImpl:116 - Testing Mail
+2017-10-29 22:49:03 INFO  SendMailImpl:106 - priyagoldi28@gmail.com
+2017-10-29 22:49:03 INFO  SendMailImpl:116 - Testing Mail
+2017-10-29 22:49:03 INFO  SendMailImpl:106 - supriyasts115@gmail.com
+2017-10-29 22:49:03 INFO  SendMailImpl:116 - Testing Mail
+2017-10-29 22:49:03 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:49:03 INFO  SendMailImpl:116 - Testing Mail
+2017-10-29 22:49:03 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:49:03 INFO  SendMailImpl:116 - Testing Mail
+2017-10-29 22:53:01 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:53:01 INFO  SendMailImpl:116 - Testing Mail
+2017-10-29 22:53:01 INFO  SendMailImpl:106 - mrunal.gudekar@gmail.com
+2017-10-29 22:53:01 INFO  SendMailImpl:116 - Testing Mail
+2017-10-29 22:53:01 INFO  SendMailImpl:106 - priyagoldi28@gmail.com
+2017-10-29 22:53:01 INFO  SendMailImpl:116 - Testing Mail
+2017-10-29 22:53:01 INFO  SendMailImpl:106 - supriyasts115@gmail.com
+2017-10-29 22:53:01 INFO  SendMailImpl:116 - Testing Mail
+2017-10-29 22:53:01 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:53:01 INFO  SendMailImpl:116 - Testing Mail
+2017-10-29 22:53:01 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:53:01 INFO  SendMailImpl:116 - Testing Mail
+2017-10-29 22:54:35 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:54:35 INFO  SendMailImpl:116 - Testing Mail
+2017-10-29 22:54:35 INFO  SendMailImpl:106 - mrunal.gudekar@gmail.com
+2017-10-29 22:54:35 INFO  SendMailImpl:116 - Testing Mail
+2017-10-29 22:54:35 INFO  SendMailImpl:106 - priyagoldi28@gmail.com
+2017-10-29 22:54:35 INFO  SendMailImpl:116 - Testing Mail
+2017-10-29 22:54:35 INFO  SendMailImpl:106 - supriyasts115@gmail.com
+2017-10-29 22:54:35 INFO  SendMailImpl:116 - Testing Mail
+2017-10-29 22:54:35 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:54:35 INFO  SendMailImpl:116 - Testing Mail
+2017-10-29 22:54:35 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:54:35 INFO  SendMailImpl:116 - Testing Mail
+2017-10-29 22:56:28 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:56:28 INFO  SendMailImpl:116 - Testing Mail
+2017-10-29 22:56:28 INFO  SendMailImpl:106 - mrunal.gudekar@gmail.com
+2017-10-29 22:56:28 INFO  SendMailImpl:116 - Testing Mail
+2017-10-29 22:56:28 INFO  SendMailImpl:106 - priyagoldi28@gmail.com
+2017-10-29 22:56:28 INFO  SendMailImpl:116 - Testing Mail
+2017-10-29 22:56:28 INFO  SendMailImpl:106 - supriyasts115@gmail.com
+2017-10-29 22:56:28 INFO  SendMailImpl:116 - Testing Mail
+2017-10-29 22:56:28 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:56:28 INFO  SendMailImpl:116 - Testing Mail
+2017-10-29 22:56:28 INFO  SendMailImpl:106 - khushboo.nalband@gmail.com
+2017-10-29 22:56:28 INFO  SendMailImpl:116 - Testing Mail
+2017-10-29 23:03:30 INFO  SendMailImpl:107 - khushboo.nalband@gmail.com
+2017-10-29 23:03:30 INFO  SendMailImpl:107 - mrunal.gudekar@gmail.com
+2017-10-29 23:03:30 INFO  SendMailImpl:107 - priyagoldi28@gmail.com
+2017-10-29 23:03:30 INFO  SendMailImpl:107 - supriyasts115@gmail.com
+2017-10-29 23:03:30 INFO  SendMailImpl:107 - khushboo.nalband@gmail.com
+2017-10-29 23:03:30 INFO  SendMailImpl:107 - khushboo.nalband@gmail.com
+2017-10-29 23:04:43 INFO  SendMailImpl:107 - khushboo.nalband@gmail.com
+2017-10-29 23:04:43 INFO  SendMailImpl:107 - mrunal.gudekar@gmail.com
+2017-10-29 23:04:43 INFO  SendMailImpl:107 - priyagoldi28@gmail.com
+2017-10-29 23:04:43 INFO  SendMailImpl:107 - supriyasts115@gmail.com
+2017-10-29 23:04:43 INFO  SendMailImpl:107 - khushboo.nalband@gmail.com
+2017-10-29 23:04:43 INFO  SendMailImpl:107 - khushboo.nalband@gmail.com
+2017-10-29 23:06:07 INFO  SendMailImpl:107 - khushboo.nalband@gmail.com
+2017-10-29 23:06:07 INFO  SendMailImpl:136 - Testing Mail
+2017-10-29 23:07:30 INFO  SendMailImpl:107 - khushboo.nalband@gmail.com
+2017-10-29 23:07:30 INFO  SendMailImpl:136 - Testing Mail
+2017-10-29 23:07:30 INFO  SendMailImpl:107 - mrunal.gudekar@gmail.com
+2017-10-29 23:07:30 INFO  SendMailImpl:136 - Testing Mail
+2017-10-29 23:07:30 INFO  SendMailImpl:107 - priyagoldi28@gmail.com
+2017-10-29 23:07:30 INFO  SendMailImpl:136 - Testing Mail
+2017-10-29 23:07:30 INFO  SendMailImpl:107 - supriyasts115@gmail.com
+2017-10-29 23:07:30 INFO  SendMailImpl:136 - Testing Mail
+2017-10-29 23:07:30 INFO  SendMailImpl:107 - khushboo.nalband@gmail.com
+2017-10-29 23:07:30 INFO  SendMailImpl:136 - Testing Mail
+2017-10-29 23:07:30 INFO  SendMailImpl:107 - khushboo.nalband@gmail.com
+2017-10-29 23:07:30 INFO  SendMailImpl:136 - Testing Mail
+2017-10-29 23:09:20 INFO  SendMailImpl:107 - khushboo.nalband@gmail.com
+2017-10-29 23:09:20 INFO  SendMailImpl:136 - Testing Mail
+2017-10-29 23:09:20 INFO  SendMailImpl:137 - if in subject
+2017-10-29 23:09:20 INFO  SendMailImpl:107 - mrunal.gudekar@gmail.com
+2017-10-29 23:09:20 INFO  SendMailImpl:136 - Testing Mail
+2017-10-29 23:09:20 INFO  SendMailImpl:137 - if in subject
+2017-10-29 23:09:20 INFO  SendMailImpl:107 - priyagoldi28@gmail.com
+2017-10-29 23:09:20 INFO  SendMailImpl:136 - Testing Mail
+2017-10-29 23:09:20 INFO  SendMailImpl:137 - if in subject
+2017-10-29 23:09:20 INFO  SendMailImpl:107 - supriyasts115@gmail.com
+2017-10-29 23:09:20 INFO  SendMailImpl:136 - Testing Mail
+2017-10-29 23:09:20 INFO  SendMailImpl:137 - if in subject
+2017-10-29 23:09:20 INFO  SendMailImpl:107 - khushboo.nalband@gmail.com
+2017-10-29 23:09:20 INFO  SendMailImpl:136 - Testing Mail
+2017-10-29 23:09:20 INFO  SendMailImpl:137 - if in subject
+2017-10-29 23:09:20 INFO  SendMailImpl:107 - khushboo.nalband@gmail.com
+2017-10-29 23:09:20 INFO  SendMailImpl:136 - Testing Mail
+2017-10-29 23:09:20 INFO  SendMailImpl:137 - if in subject
+2017-10-29 23:10:17 INFO  SendMailImpl:107 - khushboo.nalband@gmail.com
+2017-10-29 23:10:17 INFO  SendMailImpl:136 - Testing Mail
+2017-10-29 23:10:17 INFO  SendMailImpl:137 - if in subject
+2017-10-29 23:10:17 INFO  SendMailImpl:141 - Message 
+2017-10-29 23:10:17 INFO  SendMailImpl:107 - mrunal.gudekar@gmail.com
+2017-10-29 23:10:17 INFO  SendMailImpl:136 - Testing Mail
+2017-10-29 23:10:17 INFO  SendMailImpl:137 - if in subject
+2017-10-29 23:10:17 INFO  SendMailImpl:141 - Message 
+2017-10-29 23:10:17 INFO  SendMailImpl:107 - priyagoldi28@gmail.com
+2017-10-29 23:10:17 INFO  SendMailImpl:136 - Testing Mail
+2017-10-29 23:10:17 INFO  SendMailImpl:137 - if in subject
+2017-10-29 23:10:17 INFO  SendMailImpl:141 - Message 
+2017-10-29 23:10:17 INFO  SendMailImpl:107 - supriyasts115@gmail.com
+2017-10-29 23:10:17 INFO  SendMailImpl:136 - Testing Mail
+2017-10-29 23:10:17 INFO  SendMailImpl:137 - if in subject
+2017-10-29 23:10:17 INFO  SendMailImpl:141 - Message 
+2017-10-29 23:10:17 INFO  SendMailImpl:107 - khushboo.nalband@gmail.com
+2017-10-29 23:10:17 INFO  SendMailImpl:136 - Testing Mail
+2017-10-29 23:10:17 INFO  SendMailImpl:137 - if in subject
+2017-10-29 23:10:17 INFO  SendMailImpl:141 - Message 
+2017-10-29 23:10:17 INFO  SendMailImpl:107 - khushboo.nalband@gmail.com
+2017-10-29 23:10:17 INFO  SendMailImpl:136 - Testing Mail
+2017-10-29 23:10:17 INFO  SendMailImpl:137 - if in subject
+2017-10-29 23:10:17 INFO  SendMailImpl:141 - Message 
+2017-10-29 23:11:39 INFO  SendMailImpl:107 - khushboo.nalband@gmail.com
+2017-10-29 23:11:39 INFO  SendMailImpl:136 - Testing Mail
+2017-10-29 23:11:39 INFO  SendMailImpl:137 - if in subject
+2017-10-29 23:11:39 INFO  SendMailImpl:141 - Message
+2017-10-29 23:11:39 INFO  SendMailImpl:146 - Hello !! How are you? This mail is sent through java mail api ignore it
+2017-10-29 23:11:39 INFO  SendMailImpl:147 - if in msg
+2017-10-29 23:11:39 INFO  SendMailImpl:107 - mrunal.gudekar@gmail.com
+2017-10-29 23:11:39 INFO  SendMailImpl:136 - Testing Mail
+2017-10-29 23:11:39 INFO  SendMailImpl:137 - if in subject
+2017-10-29 23:11:39 INFO  SendMailImpl:141 - Message
+2017-10-29 23:11:39 INFO  SendMailImpl:146 - Hello !! How are you? This mail is sent through java mail api ignore it
+2017-10-29 23:11:39 INFO  SendMailImpl:147 - if in msg
+2017-10-29 23:11:39 INFO  SendMailImpl:107 - priyagoldi28@gmail.com
+2017-10-29 23:11:39 INFO  SendMailImpl:136 - Testing Mail
+2017-10-29 23:11:39 INFO  SendMailImpl:137 - if in subject
+2017-10-29 23:11:39 INFO  SendMailImpl:141 - Message
+2017-10-29 23:11:39 INFO  SendMailImpl:146 - Hello !! How are you? This mail is sent through java mail api ignore it
+2017-10-29 23:11:39 INFO  SendMailImpl:147 - if in msg
+2017-10-29 23:11:39 INFO  SendMailImpl:107 - supriyasts115@gmail.com
+2017-10-29 23:11:39 INFO  SendMailImpl:136 - Testing Mail
+2017-10-29 23:11:39 INFO  SendMailImpl:137 - if in subject
+2017-10-29 23:11:39 INFO  SendMailImpl:141 - Message
+2017-10-29 23:11:39 INFO  SendMailImpl:146 - Hello !! How are you? This mail is sent through java mail api ignore it
+2017-10-29 23:11:39 INFO  SendMailImpl:147 - if in msg
+2017-10-29 23:11:39 INFO  SendMailImpl:107 - khushboo.nalband@gmail.com
+2017-10-29 23:11:39 INFO  SendMailImpl:136 - Testing Mail
+2017-10-29 23:11:39 INFO  SendMailImpl:137 - if in subject
+2017-10-29 23:11:39 INFO  SendMailImpl:141 - Message
+2017-10-29 23:11:39 INFO  SendMailImpl:146 - Hello !! How are you? This mail is sent through java mail api ignore it
+2017-10-29 23:11:39 INFO  SendMailImpl:147 - if in msg
+2017-10-29 23:11:39 INFO  SendMailImpl:107 - khushboo.nalband@gmail.com
+2017-10-29 23:11:39 INFO  SendMailImpl:136 - Testing Mail
+2017-10-29 23:11:39 INFO  SendMailImpl:137 - if in subject
+2017-10-29 23:11:39 INFO  SendMailImpl:141 - Message
+2017-10-29 23:11:39 INFO  SendMailImpl:146 - Hello !! How are you? This mail is sent through java mail api ignore it
+2017-10-29 23:11:39 INFO  SendMailImpl:147 - if in msg
+2017-10-29 23:12:45 INFO  SendMailImpl:107 - khushboo.nalband@gmail.com
+2017-10-29 23:12:45 INFO  SendMailImpl:136 - Testing Mail
+2017-10-29 23:12:45 INFO  SendMailImpl:137 - if in subject
+2017-10-29 23:12:45 INFO  SendMailImpl:141 - Message
+2017-10-29 23:12:45 INFO  SendMailImpl:146 - Hello !! How are you? This mail is sent through java mail api ignore it
+2017-10-29 23:12:45 INFO  SendMailImpl:147 - if in msg
+2017-10-29 23:12:50 INFO  SendMailImpl:107 - mrunal.gudekar@gmail.com
+2017-10-29 23:12:50 INFO  SendMailImpl:136 - Testing Mail
+2017-10-29 23:12:50 INFO  SendMailImpl:137 - if in subject
+2017-10-29 23:12:50 INFO  SendMailImpl:141 - Message
+2017-10-29 23:12:50 INFO  SendMailImpl:146 - Hello !! How are you? This mail is sent through java mail api ignore it
+2017-10-29 23:12:50 INFO  SendMailImpl:147 - if in msg
+2017-10-29 23:12:54 INFO  SendMailImpl:107 - priyagoldi28@gmail.com
+2017-10-29 23:12:54 INFO  SendMailImpl:136 - Testing Mail
+2017-10-29 23:12:54 INFO  SendMailImpl:137 - if in subject
+2017-10-29 23:12:54 INFO  SendMailImpl:141 - Message
+2017-10-29 23:12:54 INFO  SendMailImpl:146 - Hello !! How are you? This mail is sent through java mail api ignore it
+2017-10-29 23:12:54 INFO  SendMailImpl:147 - if in msg
+2017-10-29 23:12:57 INFO  SendMailImpl:107 - supriyasts115@gmail.com
+2017-10-29 23:12:57 INFO  SendMailImpl:136 - Testing Mail
+2017-10-29 23:12:57 INFO  SendMailImpl:137 - if in subject
+2017-10-29 23:12:57 INFO  SendMailImpl:141 - Message
+2017-10-29 23:12:57 INFO  SendMailImpl:146 - Hello !! How are you? This mail is sent through java mail api ignore it
+2017-10-29 23:12:57 INFO  SendMailImpl:147 - if in msg
+2017-10-29 23:13:01 INFO  SendMailImpl:107 - khushboo.nalband@gmail.com
+2017-10-29 23:13:01 INFO  SendMailImpl:136 - Testing Mail
+2017-10-29 23:13:01 INFO  SendMailImpl:137 - if in subject
+2017-10-29 23:13:01 INFO  SendMailImpl:141 - Message
+2017-10-29 23:13:01 INFO  SendMailImpl:146 - Hello !! How are you? This mail is sent through java mail api ignore it
+2017-10-29 23:13:01 INFO  SendMailImpl:147 - if in msg
+2017-10-29 23:13:05 INFO  SendMailImpl:107 - khushboo.nalband@gmail.com
+2017-10-29 23:13:05 INFO  SendMailImpl:136 - Testing Mail
+2017-10-29 23:13:05 INFO  SendMailImpl:137 - if in subject
+2017-10-29 23:13:05 INFO  SendMailImpl:141 - Message
+2017-10-29 23:13:05 INFO  SendMailImpl:146 - Hello !! How are you? This mail is sent through java mail api ignore it
+2017-10-29 23:13:05 INFO  SendMailImpl:147 - if in msg
+2017-10-30 09:53:24 INFO  SubjectFilter:41 - Fwd: Lets recreate The Magic - CodeVita Season V
+2017-10-30 09:53:24 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:53:25 INFO  SubjectFilter:41 - Fwd: INDIAN AIR FORCE jobs for Permanent / Short Service Commission Officers in Delhi. Last Date: 16 Jul 2016
+2017-10-30 09:53:25 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:53:28 INFO  SubjectFilter:41 - Fwd: Indian Navy jobs for University Entry Scheme (UES) in Anywhere in India. Last Date: 07 Aug 2016
+2017-10-30 09:53:28 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:53:29 INFO  SubjectFilter:41 - Fwd: BE Project Shortlisted Students by Persistent Systems >> IOIT >> 2016/17
+2017-10-30 09:53:29 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:53:30 INFO  SubjectFilter:41 - Fwd: Required Students data for 2016-17 students - to be filled by students.
+2017-10-30 09:53:30 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:53:31 INFO  SubjectFilter:41 - Fwd: Get onboard a Flight to Transformation - CodeVita Season V
+2017-10-30 09:53:31 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:53:31 INFO  SubjectFilter:41 - Fwd: Get onboard a Flight to Transformation - CodeVita Season V
+2017-10-30 09:53:31 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:53:32 INFO  SubjectFilter:41 - Fwd: Internship Opportunities
+2017-10-30 09:53:32 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:53:33 INFO  SubjectFilter:41 - Fwd: BSNL Opportunity
+2017-10-30 09:53:33 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:53:33 INFO  SubjectFilter:41 - Fwd: Internship Opportunities
+2017-10-30 09:53:34 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:53:34 INFO  SubjectFilter:41 - SL4 Problem statement
+2017-10-30 09:53:34 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:53:35 INFO  SubjectFilter:41 - Fw: TCS Campus Recruitment: Registration Successful.
+2017-10-30 09:53:35 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:53:36 INFO  SubjectFilter:41 - Fwd: BE Projects Notice : IT (2016-17)
+2017-10-30 09:53:36 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:53:37 INFO  SubjectFilter:41 - Student Database
+2017-10-30 09:53:37 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:53:37 INFO  SubjectFilter:41 - Fwd: 2016-17 Passing out - Student data
+2017-10-30 09:53:37 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:53:38 INFO  SubjectFilter:41 - Fwd: 2016-17 Passing out - Student data
+2017-10-30 09:53:38 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:53:39 INFO  SubjectFilter:41 - ICS unit-I lecture notes
+2017-10-30 09:53:39 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:53:41 INFO  SubjectFilter:41 - ICS BOOK "cryptography and n/w security.."
+2017-10-30 09:53:41 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:55:30 INFO  SubjectFilter:41 - Fwd: Lets recreate The Magic - CodeVita Season V
+2017-10-30 09:55:30 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:55:32 INFO  SubjectFilter:41 - Fwd: INDIAN AIR FORCE jobs for Permanent / Short Service Commission Officers in Delhi. Last Date: 16 Jul 2016
+2017-10-30 09:55:32 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:55:35 INFO  SubjectFilter:41 - Fwd: Indian Navy jobs for University Entry Scheme (UES) in Anywhere in India. Last Date: 07 Aug 2016
+2017-10-30 09:55:35 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:55:36 INFO  SubjectFilter:41 - Fwd: BE Project Shortlisted Students by Persistent Systems >> IOIT >> 2016/17
+2017-10-30 09:55:36 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:55:37 INFO  SubjectFilter:41 - Fwd: Required Students data for 2016-17 students - to be filled by students.
+2017-10-30 09:55:37 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:56:51 INFO  SubjectFilter:41 - Fwd: Lets recreate The Magic - CodeVita Season V
+2017-10-30 09:56:51 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:56:52 INFO  SubjectFilter:41 - Fwd: INDIAN AIR FORCE jobs for Permanent / Short Service Commission Officers in Delhi. Last Date: 16 Jul 2016
+2017-10-30 09:56:52 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:56:55 INFO  SubjectFilter:41 - Fwd: Indian Navy jobs for University Entry Scheme (UES) in Anywhere in India. Last Date: 07 Aug 2016
+2017-10-30 09:56:55 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:56:56 INFO  SubjectFilter:41 - Fwd: BE Project Shortlisted Students by Persistent Systems >> IOIT >> 2016/17
+2017-10-30 09:56:56 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:56:56 INFO  SubjectFilter:41 - Fwd: Required Students data for 2016-17 students - to be filled by students.
+2017-10-30 09:56:56 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:56:57 INFO  SubjectFilter:41 - Fwd: Get onboard a Flight to Transformation - CodeVita Season V
+2017-10-30 09:56:57 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:56:58 INFO  SubjectFilter:41 - Fwd: Get onboard a Flight to Transformation - CodeVita Season V
+2017-10-30 09:56:58 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:56:59 INFO  SubjectFilter:41 - Fwd: Internship Opportunities
+2017-10-30 09:56:59 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:56:59 INFO  SubjectFilter:41 - Fwd: BSNL Opportunity
+2017-10-30 09:56:59 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:57:00 INFO  SubjectFilter:41 - Fwd: Internship Opportunities
+2017-10-30 09:57:00 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:57:01 INFO  SubjectFilter:41 - SL4 Problem statement
+2017-10-30 09:57:01 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:57:02 INFO  SubjectFilter:41 - Fw: TCS Campus Recruitment: Registration Successful.
+2017-10-30 09:57:02 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:57:02 INFO  SubjectFilter:41 - Fwd: BE Projects Notice : IT (2016-17)
+2017-10-30 09:57:02 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:57:03 INFO  SubjectFilter:41 - Student Database
+2017-10-30 09:57:03 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:59:25 INFO  Categorize:41 - fwd: lets recreate the magic - codevita season v
+2017-10-30 09:59:25 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:59:27 INFO  Categorize:41 - fwd: indian air force jobs for permanent / short service commission officers in delhi. last date: 16 jul 2016
+2017-10-30 09:59:27 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:59:29 INFO  Categorize:41 - fwd: indian navy jobs for university entry scheme (ues) in anywhere in india. last date: 07 aug 2016
+2017-10-30 09:59:29 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:59:30 INFO  Categorize:41 - fwd: be project shortlisted students by persistent systems >> ioit >> 2016/17
+2017-10-30 09:59:30 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:59:31 INFO  Categorize:41 - fwd: required students data for 2016-17 students - to be filled by students.
+2017-10-30 09:59:31 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:59:32 INFO  Categorize:41 - fwd: get onboard a flight to transformation - codevita season v
+2017-10-30 09:59:32 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:59:33 INFO  Categorize:41 - fwd: get onboard a flight to transformation - codevita season v
+2017-10-30 09:59:33 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:59:34 INFO  Categorize:41 - fwd: internship opportunities
+2017-10-30 09:59:34 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:59:35 INFO  Categorize:41 - fwd: bsnl opportunity
+2017-10-30 09:59:35 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:59:36 INFO  Categorize:41 - fwd: internship opportunities
+2017-10-30 09:59:36 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:59:37 INFO  Categorize:41 - sl4 problem statement
+2017-10-30 09:59:37 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:59:38 INFO  Categorize:41 - fw: tcs campus recruitment: registration successful.
+2017-10-30 09:59:38 INFO  SubjectFilter:42 - Finance
+2017-10-30 09:59:41 INFO  Categorize:41 - fwd: be projects notice : it (2016-17)
+2017-10-30 09:59:41 INFO  SubjectFilter:42 - Finance
+2017-10-30 10:00:01 INFO  Categorize:41 - fwd: lets recreate the magic - codevita season v
+2017-10-30 10:00:01 INFO  SubjectFilter:42 - Others
+2017-10-30 10:00:02 INFO  Categorize:41 - fwd: indian air force jobs for permanent / short service commission officers in delhi. last date: 16 jul 2016
+2017-10-30 10:00:02 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:00:02 INFO  Categorize:41 - fwd: indian navy jobs for university entry scheme (ues) in anywhere in india. last date: 07 aug 2016
+2017-10-30 10:00:02 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:00:04 INFO  Categorize:41 - fwd: be project shortlisted students by persistent systems >> ioit >> 2016/17
+2017-10-30 10:00:04 INFO  SubjectFilter:42 - Others
+2017-10-30 10:00:05 INFO  Categorize:41 - fwd: required students data for 2016-17 students - to be filled by students.
+2017-10-30 10:00:05 INFO  SubjectFilter:42 - Others
+2017-10-30 10:00:05 INFO  Categorize:41 - fwd: get onboard a flight to transformation - codevita season v
+2017-10-30 10:00:05 INFO  SubjectFilter:42 - Others
+2017-10-30 10:00:06 INFO  Categorize:41 - fwd: get onboard a flight to transformation - codevita season v
+2017-10-30 10:00:06 INFO  SubjectFilter:42 - Others
+2017-10-30 10:00:07 INFO  Categorize:41 - fwd: internship opportunities
+2017-10-30 10:00:07 INFO  SubjectFilter:42 - Others
+2017-10-30 10:00:08 INFO  Categorize:41 - fwd: bsnl opportunity
+2017-10-30 10:00:08 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:00:08 INFO  Categorize:41 - fwd: internship opportunities
+2017-10-30 10:00:08 INFO  SubjectFilter:42 - Others
+2017-10-30 10:00:09 INFO  Categorize:41 - sl4 problem statement
+2017-10-30 10:00:09 INFO  SubjectFilter:42 - Others
+2017-10-30 10:00:10 INFO  Categorize:41 - fw: tcs campus recruitment: registration successful.
+2017-10-30 10:00:10 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:00:11 INFO  Categorize:41 - fwd: be projects notice : it (2016-17)
+2017-10-30 10:00:11 INFO  SubjectFilter:42 - Others
+2017-10-30 10:00:12 INFO  Categorize:41 - student database
+2017-10-30 10:00:12 INFO  SubjectFilter:42 - Others
+2017-10-30 10:00:12 INFO  Categorize:41 - fwd: 2016-17 passing out - student data
+2017-10-30 10:00:12 INFO  SubjectFilter:42 - Others
+2017-10-30 10:00:13 INFO  Categorize:41 - fwd: 2016-17 passing out - student data
+2017-10-30 10:00:13 INFO  SubjectFilter:42 - Others
+2017-10-30 10:00:14 INFO  Categorize:41 - ics unit-i lecture notes
+2017-10-30 10:00:14 INFO  SubjectFilter:42 - Others
+2017-10-30 10:00:16 INFO  Categorize:41 - ics book "cryptography and n/w security.."
+2017-10-30 10:00:16 INFO  SubjectFilter:42 - Others
+2017-10-30 10:00:21 INFO  Categorize:41 - fwd: student database
+2017-10-30 10:00:21 INFO  SubjectFilter:42 - Others
+2017-10-30 10:00:22 INFO  Categorize:41 - fwd: student database
+2017-10-30 10:00:22 INFO  SubjectFilter:42 - Others
+2017-10-30 10:00:23 INFO  Categorize:41 - fw: cv samples - 4
+2017-10-30 10:00:23 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:00:24 INFO  Categorize:41 - fwd: 2016-17 student data filled by student
+2017-10-30 10:00:24 INFO  SubjectFilter:42 - Others
+2017-10-30 10:00:24 INFO  Categorize:41 - fwd: rivigo drive!16th july,2016 -be-2016/2015
+2017-10-30 10:00:24 INFO  SubjectFilter:42 - Others
+2017-10-30 10:00:25 INFO  Categorize:41 - fwd: indian navy for final year be students(2017 pass out batch)
+2017-10-30 10:00:25 INFO  SubjectFilter:42 - Others
+2017-10-30 10:00:26 INFO  Categorize:41 - fwd: opportunity for 2017 cs_it passing out batch.. registration date: 22 july 2016.
+2017-10-30 10:00:26 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:00:27 INFO  Categorize:41 - cloud computing notes
+2017-10-30 10:00:27 INFO  SubjectFilter:42 - Others
+2017-10-30 10:00:29 INFO  Categorize:41 - fwd: green peace at aissms coe on 19th july 2016 !!!
+2017-10-30 10:00:29 INFO  SubjectFilter:42 - Others
+2017-10-30 10:00:30 INFO  Categorize:41 - fwd: hurry up! 8 more days left to register for codevita season v
+2017-10-30 10:00:30 INFO  SubjectFilter:42 - Others
+2017-10-30 10:00:31 INFO  Categorize:41 - soa text book
+2017-10-30 10:00:31 INFO  SubjectFilter:42 - Others
+2017-10-30 10:00:35 INFO  Categorize:41 - fwd: 2016 passed out batch b.e. or m.e. (computer/it/e&tc/electronics)
+2017-10-30 10:00:35 INFO  SubjectFilter:42 - Others
+2017-10-30 10:00:36 INFO  Categorize:41 - be(it) 2016-17 batch student data for t&p
+2017-10-30 10:00:36 INFO  SubjectFilter:42 - Others
+2017-10-30 10:00:36 INFO  Categorize:41 - fwd: just 6 days left to register for a grand coding event - codevita season v
+2017-10-30 10:00:36 INFO  SubjectFilter:42 - Others
+2017-10-30 10:00:37 INFO  Categorize:41 - fwd: opulent recruitment drive 2016-2017 at aissms ioit
+2017-10-30 10:00:37 INFO  SubjectFilter:42 - Others
+2017-10-30 10:00:38 INFO  Categorize:41 - fwd: #recruitment# codevita season v : 6 days to go
+2017-10-30 10:00:38 INFO  SubjectFilter:42 - Others
+2017-10-30 10:00:39 INFO  Categorize:41 - sample
+2017-10-30 10:00:39 INFO  SubjectFilter:42 - Others
+2017-10-30 10:00:40 INFO  Categorize:41 - cv and problem definition
+2017-10-30 10:00:40 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:00:42 INFO  Categorize:41 - fwd: avoid eleventh hour mess up - register for codevita season v now!
+2017-10-30 10:00:42 INFO  SubjectFilter:42 - Others
+2017-10-30 10:00:46 INFO  Categorize:41 - fwd: never leave anything to later, what can be done now! register with codevita season v.
+2017-10-30 10:00:46 INFO  SubjectFilter:42 - Others
+2017-10-30 10:00:48 INFO  Categorize:41 - fwd: cv
+2017-10-30 10:00:48 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:00:49 INFO  Categorize:41 - fwd: fw: cv samples - 4
+2017-10-30 10:00:49 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:00:50 INFO  Categorize:41 - cv
+2017-10-30 10:00:50 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:00:51 INFO  Categorize:41 - cv
+2017-10-30 10:00:51 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:00:52 INFO  Categorize:41 - fwd: opulent gd result- pi on 25 aug 16 as per the time schedule given
+2017-10-30 10:00:52 INFO  SubjectFilter:42 - Others
+2017-10-30 10:00:53 INFO  Categorize:41 - gate preperation
+2017-10-30 10:00:53 INFO  SubjectFilter:42 - Others
+2017-10-30 10:00:54 INFO  Categorize:41 - fwd: pool campus drive by globaledify, bangalore for 2015-2016 pass out engineers at zeal college of engineering & research, narhe, pune
+2017-10-30 10:00:54 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:00:55 INFO  Categorize:41 - ics study material
+2017-10-30 10:00:55 INFO  SubjectFilter:42 - Others
+2017-10-30 10:01:03 INFO  Categorize:41 - cloud computing unit iii notes
+2017-10-30 10:01:03 INFO  SubjectFilter:42 - Others
+2017-10-30 10:01:07 INFO  Categorize:41 - cloud computing question bank
+2017-10-30 10:01:07 INFO  SubjectFilter:42 - Others
+2017-10-30 10:01:08 INFO  Categorize:41 - fwd: soa images and book for reference
+2017-10-30 10:01:08 INFO  SubjectFilter:42 - Others
+2017-10-30 10:01:13 INFO  Categorize:41 - book for soa
+2017-10-30 10:01:13 INFO  SubjectFilter:42 - Others
+2017-10-30 10:01:18 INFO  Categorize:41 - cloud computing: assignment 3
+2017-10-30 10:01:18 INFO  SubjectFilter:42 - Others
+2017-10-30 10:01:19 INFO  Categorize:41 - fwd: smd
+2017-10-30 10:01:19 INFO  SubjectFilter:42 - Others
+2017-10-30 10:01:19 INFO  Categorize:41 - smd notes
+2017-10-30 10:01:19 INFO  SubjectFilter:42 - Others
+2017-10-30 10:01:20 INFO  Categorize:41 - ics assignment 1_to_3
+2017-10-30 10:01:20 INFO  SubjectFilter:42 - Others
+2017-10-30 10:01:21 INFO  Categorize:41 - fwd: registration: dead line: 6th aug 2016 - off campus recruitment drive of hcl talentcare for one of india`s top it mncs, capgemini for 2016 passed out batch b.sc., bca, bcs (cs, it, electronics, maths, physics,statistics) is scheduled on 10th august 2016 at 8:00 am @ atss-iicmr, nigdi, pune
+2017-10-30 10:01:21 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:01:21 INFO  Categorize:41 - 
+2017-10-30 10:01:21 INFO  SubjectFilter:42 - Others
+2017-10-30 10:01:22 INFO  Categorize:41 - be project abstract template
+2017-10-30 10:01:22 INFO  SubjectFilter:42 - Others
+2017-10-30 10:01:23 INFO  Categorize:41 - ml ppts
+2017-10-30 10:01:23 INFO  SubjectFilter:42 - Others
+2017-10-30 10:03:12 INFO  Categorize:41 - fwd: lets recreate the magic - codevita season v
+2017-10-30 10:03:12 INFO  SubjectFilter:42 - Finance
+2017-10-30 10:03:14 INFO  Categorize:41 - fwd: indian air force jobs for permanent / short service commission officers in delhi. last date: 16 jul 2016
+2017-10-30 10:03:14 INFO  SubjectFilter:42 - Finance
+2017-10-30 10:15:28 INFO  Categorize:41 - fwd: lets recreate the magic - codevita season v
+2017-10-30 10:15:28 INFO  SubjectFilter:42 - Others
+2017-10-30 10:15:29 INFO  Categorize:41 - fwd: indian air force jobs for permanent / short service commission officers in delhi. last date: 16 jul 2016
+2017-10-30 10:15:29 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:15:32 INFO  Categorize:41 - fwd: indian navy jobs for university entry scheme (ues) in anywhere in india. last date: 07 aug 2016
+2017-10-30 10:15:32 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:15:33 INFO  Categorize:41 - fwd: be project shortlisted students by persistent systems >> ioit >> 2016/17
+2017-10-30 10:15:33 INFO  SubjectFilter:42 - Others
+2017-10-30 10:15:34 INFO  Categorize:41 - fwd: required students data for 2016-17 students - to be filled by students.
+2017-10-30 10:15:34 INFO  SubjectFilter:42 - Others
+2017-10-30 10:15:34 INFO  Categorize:41 - fwd: get onboard a flight to transformation - codevita season v
+2017-10-30 10:15:34 INFO  SubjectFilter:42 - Others
+2017-10-30 10:15:35 INFO  Categorize:41 - fwd: get onboard a flight to transformation - codevita season v
+2017-10-30 10:15:35 INFO  SubjectFilter:42 - Others
+2017-10-30 10:15:36 INFO  Categorize:41 - fwd: internship opportunities
+2017-10-30 10:15:36 INFO  SubjectFilter:42 - Others
+2017-10-30 10:15:37 INFO  Categorize:41 - fwd: bsnl opportunity
+2017-10-30 10:15:37 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:15:37 INFO  Categorize:41 - fwd: internship opportunities
+2017-10-30 10:15:37 INFO  SubjectFilter:42 - Others
+2017-10-30 10:15:38 INFO  Categorize:41 - sl4 problem statement
+2017-10-30 10:15:38 INFO  SubjectFilter:42 - Others
+2017-10-30 10:15:39 INFO  Categorize:41 - fw: tcs campus recruitment: registration successful.
+2017-10-30 10:15:39 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:15:40 INFO  Categorize:41 - fwd: be projects notice : it (2016-17)
+2017-10-30 10:15:40 INFO  SubjectFilter:42 - Others
+2017-10-30 10:15:40 INFO  Categorize:41 - student database
+2017-10-30 10:15:40 INFO  SubjectFilter:42 - Others
+2017-10-30 10:15:41 INFO  Categorize:41 - fwd: 2016-17 passing out - student data
+2017-10-30 10:15:41 INFO  SubjectFilter:42 - Others
+2017-10-30 10:15:42 INFO  Categorize:41 - fwd: 2016-17 passing out - student data
+2017-10-30 10:15:42 INFO  SubjectFilter:42 - Others
+2017-10-30 10:15:42 INFO  Categorize:41 - ics unit-i lecture notes
+2017-10-30 10:15:42 INFO  SubjectFilter:42 - Others
+2017-10-30 10:15:44 INFO  Categorize:41 - ics book "cryptography and n/w security.."
+2017-10-30 10:15:44 INFO  SubjectFilter:42 - Others
+2017-10-30 10:15:50 INFO  Categorize:41 - fwd: student database
+2017-10-30 10:15:50 INFO  SubjectFilter:42 - Others
+2017-10-30 10:15:51 INFO  Categorize:41 - fwd: student database
+2017-10-30 10:15:51 INFO  SubjectFilter:42 - Others
+2017-10-30 10:15:51 INFO  Categorize:41 - fw: cv samples - 4
+2017-10-30 10:15:51 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:15:52 INFO  Categorize:41 - fwd: 2016-17 student data filled by student
+2017-10-30 10:15:52 INFO  SubjectFilter:42 - Others
+2017-10-30 10:15:53 INFO  Categorize:41 - fwd: rivigo drive!16th july,2016 -be-2016/2015
+2017-10-30 10:15:53 INFO  SubjectFilter:42 - Others
+2017-10-30 10:15:54 INFO  Categorize:41 - fwd: indian navy for final year be students(2017 pass out batch)
+2017-10-30 10:15:54 INFO  SubjectFilter:42 - Others
+2017-10-30 10:15:55 INFO  Categorize:41 - fwd: opportunity for 2017 cs_it passing out batch.. registration date: 22 july 2016.
+2017-10-30 10:15:55 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:15:56 INFO  Categorize:41 - cloud computing notes
+2017-10-30 10:15:56 INFO  SubjectFilter:42 - Others
+2017-10-30 10:15:59 INFO  Categorize:41 - fwd: green peace at aissms coe on 19th july 2016 !!!
+2017-10-30 10:15:59 INFO  SubjectFilter:42 - Others
+2017-10-30 10:16:00 INFO  Categorize:41 - fwd: hurry up! 8 more days left to register for codevita season v
+2017-10-30 10:16:00 INFO  SubjectFilter:42 - Others
+2017-10-30 10:16:01 INFO  Categorize:41 - soa text book
+2017-10-30 10:16:01 INFO  SubjectFilter:42 - Others
+2017-10-30 10:16:06 INFO  Categorize:41 - fwd: 2016 passed out batch b.e. or m.e. (computer/it/e&tc/electronics)
+2017-10-30 10:16:06 INFO  SubjectFilter:42 - Others
+2017-10-30 10:16:07 INFO  Categorize:41 - be(it) 2016-17 batch student data for t&p
+2017-10-30 10:16:07 INFO  SubjectFilter:42 - Others
+2017-10-30 10:16:08 INFO  Categorize:41 - fwd: just 6 days left to register for a grand coding event - codevita season v
+2017-10-30 10:16:08 INFO  SubjectFilter:42 - Others
+2017-10-30 10:16:09 INFO  Categorize:41 - fwd: opulent recruitment drive 2016-2017 at aissms ioit
+2017-10-30 10:16:09 INFO  SubjectFilter:42 - Others
+2017-10-30 10:16:10 INFO  Categorize:41 - fwd: #recruitment# codevita season v : 6 days to go
+2017-10-30 10:16:10 INFO  SubjectFilter:42 - Others
+2017-10-30 10:16:11 INFO  Categorize:41 - sample
+2017-10-30 10:16:11 INFO  SubjectFilter:42 - Others
+2017-10-30 10:16:12 INFO  Categorize:41 - cv and problem definition
+2017-10-30 10:16:12 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:16:13 INFO  Categorize:41 - fwd: avoid eleventh hour mess up - register for codevita season v now!
+2017-10-30 10:16:13 INFO  SubjectFilter:42 - Others
+2017-10-30 10:16:15 INFO  Categorize:41 - fwd: never leave anything to later, what can be done now! register with codevita season v.
+2017-10-30 10:16:15 INFO  SubjectFilter:42 - Others
+2017-10-30 10:16:17 INFO  Categorize:41 - fwd: cv
+2017-10-30 10:16:17 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:16:18 INFO  Categorize:41 - fwd: fw: cv samples - 4
+2017-10-30 10:16:18 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:16:19 INFO  Categorize:41 - cv
+2017-10-30 10:16:19 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:16:20 INFO  Categorize:41 - cv
+2017-10-30 10:16:20 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:16:21 INFO  Categorize:41 - fwd: opulent gd result- pi on 25 aug 16 as per the time schedule given
+2017-10-30 10:16:21 INFO  SubjectFilter:42 - Others
+2017-10-30 10:16:22 INFO  Categorize:41 - gate preperation
+2017-10-30 10:16:22 INFO  SubjectFilter:42 - Others
+2017-10-30 10:16:22 INFO  Categorize:41 - fwd: pool campus drive by globaledify, bangalore for 2015-2016 pass out engineers at zeal college of engineering & research, narhe, pune
+2017-10-30 10:16:22 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:16:23 INFO  Categorize:41 - ics study material
+2017-10-30 10:16:23 INFO  SubjectFilter:42 - Others
+2017-10-30 10:16:29 INFO  Categorize:41 - cloud computing unit iii notes
+2017-10-30 10:16:29 INFO  SubjectFilter:42 - Others
+2017-10-30 10:16:30 INFO  Categorize:41 - cloud computing question bank
+2017-10-30 10:16:30 INFO  SubjectFilter:42 - Finance
+2017-10-30 10:16:31 INFO  Categorize:41 - fwd: soa images and book for reference
+2017-10-30 10:16:31 INFO  SubjectFilter:42 - Others
+2017-10-30 10:16:34 INFO  Categorize:41 - book for soa
+2017-10-30 10:16:34 INFO  SubjectFilter:42 - Others
+2017-10-30 10:16:39 INFO  Categorize:41 - cloud computing: assignment 3
+2017-10-30 10:16:39 INFO  SubjectFilter:42 - Others
+2017-10-30 10:16:39 INFO  Categorize:41 - fwd: smd
+2017-10-30 10:16:39 INFO  SubjectFilter:42 - Others
+2017-10-30 10:16:40 INFO  Categorize:41 - smd notes
+2017-10-30 10:16:40 INFO  SubjectFilter:42 - Others
+2017-10-30 10:16:40 INFO  Categorize:41 - ics assignment 1_to_3
+2017-10-30 10:16:40 INFO  SubjectFilter:42 - Others
+2017-10-30 10:16:41 INFO  Categorize:41 - fwd: registration: dead line: 6th aug 2016 - off campus recruitment drive of hcl talentcare for one of india`s top it mncs, capgemini for 2016 passed out batch b.sc., bca, bcs (cs, it, electronics, maths, physics,statistics) is scheduled on 10th august 2016 at 8:00 am @ atss-iicmr, nigdi, pune
+2017-10-30 10:16:41 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:16:42 INFO  Categorize:41 - 
+2017-10-30 10:16:42 INFO  SubjectFilter:42 - Others
+2017-10-30 10:16:43 INFO  Categorize:41 - be project abstract template
+2017-10-30 10:16:43 INFO  SubjectFilter:42 - Others
+2017-10-30 10:16:43 INFO  Categorize:41 - ml ppts
+2017-10-30 10:16:43 INFO  SubjectFilter:42 - Others
+2017-10-30 10:16:47 INFO  Categorize:41 - updated ppt for unit-3
+2017-10-30 10:16:47 INFO  SubjectFilter:42 - Others
+2017-10-30 10:16:48 INFO  Categorize:41 - documents
+2017-10-30 10:16:48 INFO  SubjectFilter:42 - Others
+2017-10-30 10:16:54 INFO  Categorize:41 - cv
+2017-10-30 10:16:54 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:16:54 INFO  Categorize:41 - fwd: re: be project student groups
+2017-10-30 10:16:54 INFO  SubjectFilter:42 - Social
+2017-10-30 10:16:55 INFO  Categorize:41 - fwd: inviting registrations for 2nd mitsubishi electric cup 2017 - national level automation project competition 2017
+2017-10-30 10:16:55 INFO  SubjectFilter:42 - Others
+2017-10-30 10:16:55 INFO  Categorize:41 - fwd: revised interview schedule - opulent recruitment drive 2016-2017
+2017-10-30 10:16:55 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:16:56 INFO  Categorize:41 - fwd: job mela @ bharati vidyapeeth university college of engineering, pune |saturday 13th august 2016
+2017-10-30 10:16:56 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:16:57 INFO  Categorize:41 - fwd: checklist from tpo
+2017-10-30 10:16:57 INFO  SubjectFilter:42 - Others
+2017-10-30 10:16:57 INFO  Categorize:41 - cv
+2017-10-30 10:16:57 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:16:58 INFO  Categorize:41 - fwd: imp regarding in-sem exam
+2017-10-30 10:16:58 INFO  SubjectFilter:42 - Others
+2017-10-30 10:16:59 INFO  Categorize:41 - blaha solutions
+2017-10-30 10:16:59 INFO  SubjectFilter:42 - Others
+2017-10-30 10:16:59 INFO  Categorize:41 - fwd:insem smd solution
+2017-10-30 10:16:59 INFO  SubjectFilter:42 - Others
+2017-10-30 10:17:00 INFO  Categorize:41 - fwd: uml diagram tool tables
+2017-10-30 10:17:00 INFO  SubjectFilter:42 - Others
+2017-10-30 10:17:01 INFO  Categorize:41 - vurgent: data for tcs with ct ref numbers
+2017-10-30 10:17:01 INFO  SubjectFilter:42 - Others
+2017-10-30 10:17:02 INFO  Categorize:41 - tcs student data be it 2016-17
+2017-10-30 10:17:02 INFO  SubjectFilter:42 - Others
+2017-10-30 10:17:03 INFO  Categorize:41 - fwd: tcs code vita issues
+2017-10-30 10:17:03 INFO  SubjectFilter:42 - Others
+2017-10-30 10:17:04 INFO  Categorize:41 - fwd: two days skill and knowledge enhancement program (skep)
+2017-10-30 10:17:04 INFO  SubjectFilter:42 - Others
+2017-10-30 10:17:05 INFO  Categorize:41 - cloud computing unit 2
+2017-10-30 10:17:05 INFO  SubjectFilter:42 - Others
+2017-10-30 10:17:32 INFO  Categorize:41 - fwd: #recruitment# ||campus ready- tcs
+2017-10-30 10:17:32 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:17:33 INFO  Categorize:41 - fwd: campus drive of rivigo for 2015 / 2016 batch
+2017-10-30 10:17:33 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:17:34 INFO  Categorize:41 - vyom lab shortlisted students
+2017-10-30 10:17:34 INFO  SubjectFilter:42 - Others
+2017-10-30 10:17:34 INFO  Categorize:41 - project abstract and synopsis submission
+2017-10-30 10:17:34 INFO  SubjectFilter:42 - Others
+2017-10-30 10:17:35 INFO  Categorize:41 - re: project abstract and synopsis submission
+2017-10-30 10:17:35 INFO  SubjectFilter:42 - Others
+2017-10-30 10:17:36 INFO  Categorize:41 - cv
+2017-10-30 10:17:36 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:17:36 INFO  Categorize:41 - t & p data requirement
+2017-10-30 10:17:36 INFO  SubjectFilter:42 - Others
+2017-10-30 10:17:37 INFO  Categorize:41 - fwd: t & p data requirement
+2017-10-30 10:17:37 INFO  SubjectFilter:42 - Others
+2017-10-30 10:17:38 INFO  Categorize:41 - t and p data sheet
+2017-10-30 10:17:38 INFO  SubjectFilter:42 - Others
+2017-10-30 10:17:39 INFO  Categorize:41 - correct t & p recruitment data
+2017-10-30 10:17:39 INFO  SubjectFilter:42 - Others
+2017-10-30 10:17:39 INFO  Categorize:41 - fwd: seminar on bright and innovative ideas by replete business solutions pvt. ltd
+2017-10-30 10:17:39 INFO  SubjectFilter:42 - Others
+2017-10-30 10:17:40 INFO  Categorize:41 - bunk sheets for itsa (se,te,be)
+2017-10-30 10:17:40 INFO  SubjectFilter:42 - Others
+2017-10-30 10:17:41 INFO  Categorize:41 - project review checklist-i
+2017-10-30 10:17:41 INFO  SubjectFilter:42 - Others
+2017-10-30 10:17:42 INFO  Categorize:41 - itsa events
+2017-10-30 10:17:42 INFO  SubjectFilter:42 - Others
+2017-10-30 10:17:42 INFO  Categorize:41 - welcome to naukri.com
+2017-10-30 10:17:42 INFO  SubjectFilter:42 - Others
+2017-10-30 10:17:43 INFO  Categorize:41 - verify your email address
+2017-10-30 10:17:43 INFO  SubjectFilter:42 - Others
+2017-10-30 10:17:44 INFO  Categorize:41 - khushboo nahid ahmed nalband, recommended internships for you on sep 05
+2017-10-30 10:17:44 INFO  SubjectFilter:42 - Others
+2017-10-30 10:17:45 INFO  Categorize:41 - khushboo nahid ahmed nalband, recommended jobs for you on sep 05
+2017-10-30 10:17:45 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:17:45 INFO  Categorize:41 - you've created a job alert
+2017-10-30 10:17:45 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:17:46 INFO  Categorize:41 - get your naukri profile the expert advantage
+2017-10-30 10:17:46 INFO  SubjectFilter:42 - Social
+2017-10-30 10:17:47 INFO  Categorize:41 - rsa and sha-1 lab assignment with program and writeup
+2017-10-30 10:17:47 INFO  SubjectFilter:42 - Others
+2017-10-30 10:17:54 INFO  Categorize:41 - ics lab assignment with program and writeup
+2017-10-30 10:17:54 INFO  SubjectFilter:42 - Others
+2017-10-30 10:17:58 INFO  Categorize:41 - itsa rules
+2017-10-30 10:17:58 INFO  SubjectFilter:42 - Others
+2017-10-30 10:17:59 INFO  Categorize:41 - tattoo making rules
+2017-10-30 10:17:59 INFO  SubjectFilter:42 - Others
+2017-10-30 10:18:00 INFO  Categorize:41 - invitations
+2017-10-30 10:18:00 INFO  SubjectFilter:42 - Social
+2017-10-30 10:18:00 INFO  Categorize:41 - how to make your job search safer
+2017-10-30 10:18:00 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:18:01 INFO  Categorize:41 - verify your mobile number
+2017-10-30 10:18:01 INFO  SubjectFilter:42 - Others
+2017-10-30 10:18:02 INFO  Categorize:41 - fresher, software engineer developer in bengaluru - jobs
+2017-10-30 10:18:02 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:18:03 INFO  Categorize:41 - resume
+2017-10-30 10:18:03 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:18:03 INFO  Categorize:41 - availability of date for next session
+2017-10-30 10:18:03 INFO  SubjectFilter:42 - Others
+2017-10-30 10:18:04 INFO  Categorize:41 - dama daman medicine
+2017-10-30 10:18:04 INFO  SubjectFilter:42 - Others
+2017-10-30 10:18:05 INFO  Categorize:41 - fresher, it fresher in pune - urgent requirement
+2017-10-30 10:18:05 INFO  SubjectFilter:42 - Others
+2017-10-30 10:18:06 INFO  Categorize:41 - fwd: techgig - event for technical assessment
+2017-10-30 10:18:06 INFO  SubjectFilter:42 - Others
+2017-10-30 10:18:06 INFO  Categorize:41 - fwd: placement event for freshers on 11-09-2016
+2017-10-30 10:18:06 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:18:07 INFO  Categorize:41 - fwd: ignite-2016 state level student fest
+2017-10-30 10:18:07 INFO  SubjectFilter:42 - Others
+2017-10-30 10:18:11 INFO  Categorize:41 - sl-iii lab index
+2017-10-30 10:18:11 INFO  SubjectFilter:42 - Others
+2017-10-30 10:18:12 INFO  Categorize:41 - sha-i and bridge the gap java api
+2017-10-30 10:18:12 INFO  SubjectFilter:42 - Others
+2017-10-30 10:18:13 INFO  Categorize:41 - 5 reasons why you should work with a startup at least once in your career! | flipkart plans to hire 10,000 temporary staff
+2017-10-30 10:18:13 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:18:14 INFO  Categorize:41 - ml 2
+2017-10-30 10:18:14 INFO  SubjectFilter:42 - Others
+2017-10-30 10:18:14 INFO  Categorize:41 - smd assignment
+2017-10-30 10:18:14 INFO  SubjectFilter:42 - Others
+2017-10-30 10:18:16 INFO  Categorize:41 - you can create up to 5 profiles on naukri.com
+2017-10-30 10:18:16 INFO  SubjectFilter:42 - Social
+2017-10-30 10:18:16 INFO  Categorize:41 - jobs in bengaluru for fresher, it fresher
+2017-10-30 10:18:16 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:18:18 INFO  Categorize:41 - globally, companies in india most positive on hiring | 10 tech skills that will earn you more money
+2017-10-30 10:18:18 INFO  SubjectFilter:42 - Others
+2017-10-30 10:18:19 INFO  Categorize:41 - university project booklet for year 2016_17
+2017-10-30 10:18:19 INFO  SubjectFilter:42 - Others
+2017-10-30 10:18:25 INFO  Categorize:41 - workshop photos
+2017-10-30 10:18:25 INFO  SubjectFilter:42 - Others
+2017-10-30 10:18:35 INFO  Categorize:41 - hands on workshop on latex on monday 9:30am
+2017-10-30 10:18:35 INFO  SubjectFilter:42 - Others
+2017-10-30 10:18:36 INFO  Categorize:41 - cloud computing assignments
+2017-10-30 10:18:36 INFO  SubjectFilter:42 - Others
+2017-10-30 10:18:37 INFO  Categorize:41 - silicon valley car tech course to plug engineer shortage | startup chhattisgarh launched for boosting entrepreneurship
+2017-10-30 10:18:37 INFO  SubjectFilter:42 - Others
+2017-10-30 10:18:37 INFO  Categorize:41 - cloud computing unit iv
+2017-10-30 10:18:37 INFO  SubjectFilter:42 - Others
+2017-10-30 10:18:38 INFO  Categorize:41 - khushboo nahid ahmed nalband, 15 jobs matching your sea...
+2017-10-30 10:18:38 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:18:39 INFO  Categorize:41 - 6 key skills that will get you a job in cloud tech! | here's how much you'd have to pay to buy an iphone 7 in india
+2017-10-30 10:18:39 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:18:40 INFO  Categorize:41 - set the criteria for the jobs your are looking for
+2017-10-30 10:18:40 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:18:40 INFO  Categorize:41 - opportunities in bengaluru for software engineer, fresher
+2017-10-30 10:18:40 INFO  SubjectFilter:42 - Others
+2017-10-30 10:18:41 INFO  Categorize:41 - iits change placement course after flipkart fiasco | how education-tech startups are changing learning in india
+2017-10-30 10:18:41 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:18:42 INFO  Categorize:41 - apple ios 10 surpasses ios 9 in early adoption in just 24 hours | indian-origin entrepreneur sells soft machines to intel for $300m
+2017-10-30 10:18:42 INFO  SubjectFilter:42 - Others
+2017-10-30 10:18:42 INFO  Categorize:41 - does your profile contain the words recruiters are looking for?
+2017-10-30 10:18:42 INFO  SubjectFilter:42 - Social
+2017-10-30 10:18:43 INFO  Categorize:41 - fresher, intern in pune - jobs
+2017-10-30 10:18:43 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:18:44 INFO  Categorize:41 - this startup has no offices and unlimited vacation, and its founder has lived in more than 30 countries in 5 years | elon musk says the future of ai is in linking it to our brains
+2017-10-30 10:18:44 INFO  SubjectFilter:42 - Others
+2017-10-30 10:18:44 INFO  Categorize:41 - fwd: techmahindra on 21st september 2016 at aissms coe !!! for 2017 passing out batch
+2017-10-30 10:18:44 INFO  SubjectFilter:42 - Others
+2017-10-30 10:18:45 INFO  Categorize:41 - fwd: college participation report in code wizards 2016
+2017-10-30 10:18:45 INFO  SubjectFilter:42 - Others
+2017-10-30 10:18:47 INFO  Categorize:41 - fwd: invitation to tpo,students,faculty for student interaction drive, career in indian air forceiaf (indian air force) publicity campaingn
+2017-10-30 10:18:47 INFO  SubjectFilter:42 - Social
+2017-10-30 10:18:48 INFO  Categorize:41 - fwd: congratulations !!!
+2017-10-30 10:18:48 INFO  SubjectFilter:42 - Others
+2017-10-30 10:18:50 INFO  Categorize:41 - khushboo nahid ahmed nalband, 15 jobs matching your sea...
+2017-10-30 10:18:50 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:18:52 INFO  Categorize:41 - 6 free marketing tools for every entrepreneur || github's new features aim for business and open-source users
+2017-10-30 10:18:52 INFO  SubjectFilter:42 - Others
+2017-10-30 10:18:54 INFO  Categorize:41 - expert lecture attendance
+2017-10-30 10:18:54 INFO  SubjectFilter:42 - Others
+2017-10-30 10:18:54 INFO  Categorize:41 - ics assignments 1 to3 and 4 to 7
+2017-10-30 10:18:54 INFO  SubjectFilter:42 - Others
+2017-10-30 10:18:56 INFO  Categorize:41 - regarding today's session
+2017-10-30 10:18:56 INFO  SubjectFilter:42 - Others
+2017-10-30 10:18:57 INFO  Categorize:41 - it department newsletter 15-16
+2017-10-30 10:18:57 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:12 INFO  Categorize:41 - layoffs at twitter's bengaluru development centre as it stops global engineering work | facing slow wi-fi issues? here's what the problem might be
+2017-10-30 10:19:12 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:12 INFO  Categorize:41 - job openings in bengaluru for fresher, software developer
+2017-10-30 10:19:12 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:19:13 INFO  Categorize:41 - expert lecture on ml unit 6 topics
+2017-10-30 10:19:13 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:14 INFO  Categorize:41 - time table
+2017-10-30 10:19:14 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:14 INFO  Categorize:41 - zensar tomorrow !!!
+2017-10-30 10:19:14 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:15 INFO  Categorize:41 - flipkart becomes first e-commerce marketplace in india to reach 100,000,000 registered users | security challenge: wearing multiple hats in it
+2017-10-30 10:19:15 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:16 INFO  Categorize:41 - expert lecture postponed
+2017-10-30 10:19:16 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:16 INFO  Categorize:41 - have you used naukri on mobile?
+2017-10-30 10:19:16 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:17 INFO  Categorize:41 - khushboo nahid ahmed nalband, jobs matching your profile for sep 22
+2017-10-30 10:19:17 INFO  SubjectFilter:42 - Social
+2017-10-30 10:19:18 INFO  Categorize:41 - congratulations !!!
+2017-10-30 10:19:18 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:19 INFO  Categorize:41 - khushboo nahid ahmed nalband, 15 jobs matching your sea...
+2017-10-30 10:19:19 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:19:19 INFO  Categorize:41 - resume needed
+2017-10-30 10:19:19 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:19:20 INFO  Categorize:41 - 7 reasons why google allo will kill whatsapp | take a deep dive into development
+2017-10-30 10:19:20 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:21 INFO  Categorize:41 - jobs in bengaluru for fresher, trainee software developer
+2017-10-30 10:19:21 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:19:21 INFO  Categorize:41 - capgemini tomorrow at aissms coe !!!
+2017-10-30 10:19:21 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:22 INFO  Categorize:41 - fwd: gail recruitment through gate 2017
+2017-10-30 10:19:22 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:23 INFO  Categorize:41 - here's how you can become a good engineer! | apple partners with flipkart ahead of iphone 7 launch in india
+2017-10-30 10:19:23 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:23 INFO  Categorize:41 - whatsapp to scrub off user data once the app is uninstalled: delhi hc | vodafone pumps rs 47,700 cr in india in response to reliance jio
+2017-10-30 10:19:23 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:24 INFO  Categorize:41 - milking success: the story of mother diary | bill gates could do pretty well if he ran for president, study suggests
+2017-10-30 10:19:24 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:25 INFO  Categorize:41 - job openings in pune for software developer, software test engineer
+2017-10-30 10:19:25 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:19:25 INFO  Categorize:41 - congratulations !!!
+2017-10-30 10:19:25 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:26 INFO  Categorize:41 - 25+ companies are hiring. hurry!! 4 more days to go
+2017-10-30 10:19:26 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:27 INFO  Categorize:41 - khushboo nahid ahmed nalband, 15 jobs matching your sea...
+2017-10-30 10:19:27 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:19:27 INFO  Categorize:41 - ericsson cuts down 3000 jobs and ends 140 years of swedish production | 5 skills to match modern workplace demands
+2017-10-30 10:19:27 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:19:28 INFO  Categorize:41 - khushboo nahid ahmed nalband, jobs matching your profile for sep 27
+2017-10-30 10:19:28 INFO  SubjectFilter:42 - Social
+2017-10-30 10:19:29 INFO  Categorize:41 - expert lecture attendance
+2017-10-30 10:19:29 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:29 INFO  Categorize:41 - opportunities in bengaluru for fresher, software developer
+2017-10-30 10:19:29 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:30 INFO  Categorize:41 - last 3 days.....registrations closing soon- student ambassador program hurry!!
+2017-10-30 10:19:30 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:31 INFO  Categorize:41 - tech jobs that will get you the biggest raise next year | this web experiment shows you're extremely predictable
+2017-10-30 10:19:31 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:19:31 INFO  Categorize:41 - 7th assignment of ml (beyond syllabus)
+2017-10-30 10:19:31 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:32 INFO  Categorize:41 - submission sheet
+2017-10-30 10:19:32 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:33 INFO  Categorize:41 - ml 5 writeup
+2017-10-30 10:19:33 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:34 INFO  Categorize:41 - johnson control on 1st october 2016 !!!
+2017-10-30 10:19:34 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:35 INFO  Categorize:41 - training-cybersecurity- 2016.pdf
+2017-10-30 10:19:35 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:36 INFO  Categorize:41 - user id for techmahindra
+2017-10-30 10:19:36 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:37 INFO  Categorize:41 - verify your mobile number
+2017-10-30 10:19:37 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:37 INFO  Categorize:41 - indian universities nowadays going abroad for headhunting | flipkart lines up jumbo offers for loyal shoppers
+2017-10-30 10:19:37 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:38 INFO  Categorize:41 - khushboo nahid ahmed nalband, 15 jobs matching your sea...
+2017-10-30 10:19:38 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:19:39 INFO  Categorize:41 - teach for india tomorrow !!!
+2017-10-30 10:19:39 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:39 INFO  Categorize:41 - fresher, software development engineer in bengaluru - jobs
+2017-10-30 10:19:39 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:19:40 INFO  Categorize:41 - mark zuckerberg reveals how facebook literally stays cool | google aims to bestow free wi-fi at malls and cafes in india
+2017-10-30 10:19:40 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:41 INFO  Categorize:41 - avishkar 2016 guidelines and timeable for orientation lecture
+2017-10-30 10:19:41 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:42 INFO  Categorize:41 - google to set up data centres in india; chases microsoft, amazon over the cloud | researchers make progress toward computer video recognition
+2017-10-30 10:19:42 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:43 INFO  Categorize:41 - fwd: amazon - 3rd oct
+2017-10-30 10:19:43 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:44 INFO  Categorize:41 - joblessness in india at 5-year high, reveals survey | time for women to start up as accelerator, tech programmes get boost
+2017-10-30 10:19:44 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:19:45 INFO  Categorize:41 - advance class code
+2017-10-30 10:19:45 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:45 INFO  Categorize:41 - software trainee, embedded software developer in pune - urgent requirement
+2017-10-30 10:19:45 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:46 INFO  Categorize:41 - be(it) project review-ii on friday 07/10/2016 from 8:30am onwards
+2017-10-30 10:19:46 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:47 INFO  Categorize:41 - shortlisted students list of johnson control
+2017-10-30 10:19:47 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:47 INFO  Categorize:41 - khushboo nahid ahmed nalband, 15 jobs matching your sea...
+2017-10-30 10:19:47 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:19:48 INFO  Categorize:41 - bitwise shortlisted students
+2017-10-30 10:19:48 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:49 INFO  Categorize:41 - lots of today's jobs will not exist in future | 29 best jobs for work-life balance (2016)
+2017-10-30 10:19:49 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:19:50 INFO  Categorize:41 - khushboo nahid ahmed nalband, jobs matching your profile for oct 04
+2017-10-30 10:19:50 INFO  SubjectFilter:42 - Social
+2017-10-30 10:19:50 INFO  Categorize:41 - urgent requirement in bengaluru for software developer, fresher
+2017-10-30 10:19:50 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:51 INFO  Categorize:41 - google, microsoft & ibm battle it out in india enterprise space | ibm's iot blockchain service gets ready to roll
+2017-10-30 10:19:51 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:53 INFO  Categorize:41 - sl iii (ml and ics) submission
+2017-10-30 10:19:53 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:54 INFO  Categorize:41 - submission for sl-iii(ics+ml) on saturday 08/10/2016
+2017-10-30 10:19:54 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:55 INFO  Categorize:41 - sl iii (ml and ics) submission
+2017-10-30 10:19:55 INFO  SubjectFilter:42 - Others
+2017-10-30 10:19:56 INFO  Categorize:41 - university project booklet format 2016_17
+2017-10-30 10:19:56 INFO  SubjectFilter:42 - Others
+2017-10-30 10:20:03 INFO  Categorize:41 - got better code? here's less money | flipkart made one-day record of rs 1,400 cr in sales | 10 tips to win over co-workers who dislike you
+2017-10-30 10:20:03 INFO  SubjectFilter:42 - Others
+2017-10-30 10:20:04 INFO  Categorize:41 - khushboo nahid ahmed nalband, 13 jobs matching your sea...
+2017-10-30 10:20:04 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:20:05 INFO  Categorize:41 - 
+2017-10-30 10:20:05 INFO  SubjectFilter:42 - Others
+2017-10-30 10:20:05 INFO  Categorize:41 - urgent requirement in pune for software developer, fresher
+2017-10-30 10:20:05 INFO  SubjectFilter:42 - Others
+2017-10-30 10:20:06 INFO  Categorize:41 - project synopsis and review ppt
+2017-10-30 10:20:06 INFO  SubjectFilter:42 - Others
+2017-10-30 10:20:07 INFO  Categorize:41 - harbinger tomorrow !!!
+2017-10-30 10:20:07 INFO  SubjectFilter:42 - Others
+2017-10-30 10:20:08 INFO  Categorize:41 - microsoft thanks to iot for coca-cola coolers get an extra dose of "cool" | microsoft xamarin - cross-platform productivity with xamarin
+2017-10-30 10:20:08 INFO  SubjectFilter:42 - Others
+2017-10-30 10:20:09 INFO  Categorize:41 - ml assignment 4 naive bayes and k-nn writeup
+2017-10-30 10:20:09 INFO  SubjectFilter:42 - Others
+2017-10-30 10:20:12 INFO  Categorize:41 - 5 ways to be a better learner | chandrababu naidu plans to recreate hyderabad's cyber sucess story across andhra pradesh
+2017-10-30 10:20:12 INFO  SubjectFilter:42 - Others
+2017-10-30 10:20:12 INFO  Categorize:41 - fwd: project synopsis and review ppt
+2017-10-30 10:20:12 INFO  SubjectFilter:42 - Others
+2017-10-30 10:20:13 INFO  Categorize:41 - my first year at work: vipin pathak ceo, care24 | how indian govt sites sit defenseless as cyberattacks rise
+2017-10-30 10:20:13 INFO  SubjectFilter:42 - Others
+2017-10-30 10:20:14 INFO  Categorize:41 - job openings in pune for technical engineer, software developer
+2017-10-30 10:20:14 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:20:15 INFO  Categorize:41 - students shortlisted for harbinger
+2017-10-30 10:20:15 INFO  SubjectFilter:42 - Others
+2017-10-30 10:20:16 INFO  Categorize:41 - apple cofounder steve wozniak dismisses ai concerns raised by the likes of stephen hawking and nick bostrom | why an unhackable mobile phone is a complete marketing myth
+2017-10-30 10:20:16 INFO  SubjectFilter:42 - Others
+2017-10-30 10:20:17 INFO  Categorize:41 - ics question banks oral question and answer
+2017-10-30 10:20:17 INFO  SubjectFilter:42 - Finance
+2017-10-30 10:20:18 INFO  Categorize:41 - khushboo nahid ahmed nalband, 15 jobs matching your sea...
+2017-10-30 10:20:18 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:20:18 INFO  Categorize:41 - khushboo nahid ahmed nalband, 15 jobs matching your sea...
+2017-10-30 10:20:18 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:20:19 INFO  Categorize:41 - 15 tricky job interview questions and how to answer them | it biggies like tcs, infosys may clock worst q2 performance in a decade
+2017-10-30 10:20:19 INFO  SubjectFilter:42 - Employment
+2017-10-30 10:20:20 INFO  Categorize:41 - fwd: ml3
+2017-10-30 10:20:20 INFO  SubjectFilter:42 - Others
+2017-10-30 10:20:23 INFO  Categorize:41 - ml writeups
+2017-10-30 10:20:23 INFO  SubjectFilter:42 - Others
+2017-10-30 11:06:26 INFO  SendMailImpl:122 - Message
+2017-10-30 11:06:31 INFO  SendMailImpl:122 - Message
+2017-10-30 11:06:34 INFO  SendMailImpl:122 - Message
+2017-10-30 11:06:38 INFO  SendMailImpl:122 - Message
+2017-10-30 12:08:41 INFO  Categorize:40 - fwd: lets recreate the magic - codevita season v
+2017-10-30 12:08:41 INFO  SubjectFilter:42 - Others
+2017-10-30 12:08:41 INFO  Categorize:40 - fwd: indian air force jobs for permanent / short service commission officers in delhi. last date: 16 jul 2016
+2017-10-30 12:08:41 INFO  SubjectFilter:42 - Employment
+2017-10-30 12:08:42 INFO  Categorize:40 - fwd: indian navy jobs for university entry scheme (ues) in anywhere in india. last date: 07 aug 2016
+2017-10-30 12:08:42 INFO  SubjectFilter:42 - Employment
+2017-10-30 12:08:43 INFO  Categorize:40 - fwd: be project shortlisted students by persistent systems >> ioit >> 2016/17
+2017-10-30 12:08:43 INFO  SubjectFilter:42 - Others

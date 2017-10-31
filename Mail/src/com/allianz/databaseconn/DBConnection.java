@@ -7,13 +7,17 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.util.Properties;
 
+import org.apache.log4j.Logger;
+
+import com.allianz.swt.MainWindow;
+
 /**This class establishes the connection with the Database
  * @author User
  */
 public class DBConnection {
 	
 		private static Connection connection=null;
-	  
+		public static final Logger logger = Logger.getLogger(DBConnection.class);
 
 	public static Connection getConnection() throws IOException 
 	
@@ -27,6 +31,9 @@ public class DBConnection {
 					return connection;
 				}
 			}
+			
+			else
+				logger.info("Database connected");
 		}//try
 		
 		catch(Exception e)
